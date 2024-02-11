@@ -1,5 +1,5 @@
-# assignment_Numpy_Samuel
-own assignment with Numpy for image manipulation
+# Assignment Numpy Datascience Syntra
+Assignment with Numpy for image manipulation
 # Project: Image manipulation in Numpy
 
 ## Overview
